@@ -1,2 +1,2 @@
 # diversos
-Criação de ambiente virtual
+Inclusão de informações diversas
